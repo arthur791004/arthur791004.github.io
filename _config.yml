@@ -70,6 +70,3 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:arthur791004/arthur791004.github.io.git
-
-# Google Analytics ID
-google_anaytics: UA-82435336-1
