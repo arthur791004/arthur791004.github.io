@@ -70,3 +70,6 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:arthur791004/arthur791004.github.io.git
+
+# Disqus
+disqus_shortname: arthur791004-1
