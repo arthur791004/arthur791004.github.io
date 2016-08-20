@@ -1,7 +1,7 @@
 ---
 title: webpack-react-scss-eslint-material
 date: 2016-08-20 14:49:17
-tags:
+tags: [ webpack, react ]
 ---
 ## Goal
 * 本篇的目的是建立一個完整的 react 開發流程並包含 production 的部分
